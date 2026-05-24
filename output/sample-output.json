@@ -1,0 +1,42 @@
+{
+    "emails": [
+        "john.doe@alueducation.com",
+        "jane_smith@alumni.alueducation.com",
+        "support@si.alueducation.com",
+        "michaelfrontend@gmail.com",
+        "dev.team@startup.io",
+        "security_ops@company.org"
+    ],
+
+    "credit_cards_masked": [
+        "****-****-****-9012",
+        "****-****-****-0004",
+        "****-****-****-4444",
+        "****-****-****-1098"
+    ],
+
+    "urls": [
+        "https://www.alueducation.com",
+        "http://example.org/login?user=test",
+        "https://github.com/frontend/project",
+        "https://secure-payment.com/checkout",
+        "http://localhost:3000/dashboard",
+        "https://news.site.net/article/2026/update"
+    ],
+
+    "hashtags": [
+        "#FrontendDevelopment",
+        "#RegexValidation",
+        "#CyberSecurity",
+        "#PythonProgramming",
+        "#DataExtraction",
+        "#ALU2026",
+        "#invalid"
+    ],
+
+    "unsafe_content_detected": [
+        "<script>alert(\"hacked\")</script>",
+        "<script>malicious_code()</script>",
+        "DROP TABLE"
+    ]
+}
